@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React ABCDEFG
+          Learn React ABCDEFG 123456
         </a>
       </header>
     </div>
